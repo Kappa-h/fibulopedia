@@ -1,0 +1,137 @@
+[
+  {
+    "id": "monster_001",
+    "name": "Rat",
+    "hp": 20,
+    "exp": 5,
+    "loot": "Gold Coin (0-4), Cheese",
+    "location": "Thais sewers, Rookgaard",
+    "difficulty": "easy"
+  },
+  {
+    "id": "monster_002",
+    "name": "Cave Rat",
+    "hp": 30,
+    "exp": 10,
+    "loot": "Gold Coin (0-4)",
+    "location": "Various caves, Rookgaard",
+    "difficulty": "easy"
+  },
+  {
+    "id": "monster_003",
+    "name": "Troll",
+    "hp": 50,
+    "exp": 20,
+    "loot": "Gold Coin (0-12), Leather Helmet, Leather Armor, Meat, Dagger",
+    "location": "Troll caves near Thais and Carlin",
+    "difficulty": "easy"
+  },
+  {
+    "id": "monster_004",
+    "name": "Orc",
+    "hp": 70,
+    "exp": 25,
+    "loot": "Gold Coin (0-17), Meat, Studded Armor, Axe, Sabre, Chain Armor",
+    "location": "Orc fortress north of Thais",
+    "difficulty": "easy"
+  },
+  {
+    "id": "monster_005",
+    "name": "Dwarf",
+    "hp": 120,
+    "exp": 45,
+    "loot": "Gold Coin (0-9), Shovel, Pick, Leather Legs, Plate Shield, Axe",
+    "location": "Dwarf mines in Kazordoon",
+    "difficulty": "medium"
+  },
+  {
+    "id": "monster_006",
+    "name": "Dwarf Guard",
+    "hp": 245,
+    "exp": 165,
+    "loot": "Gold Coin (0-30), Chain Armor, Dwarven Shield, Axe, Leather Legs",
+    "location": "Kazordoon upper levels",
+    "difficulty": "medium"
+  },
+  {
+    "id": "monster_007",
+    "name": "Minotaur",
+    "hp": 100,
+    "exp": 50,
+    "loot": "Gold Coin (0-25), Mace, Plate Armor, Brass Legs, Chain Armor, Meat",
+    "location": "Mintwallin, Darashia",
+    "difficulty": "medium"
+  },
+  {
+    "id": "monster_008",
+    "name": "Cyclops",
+    "hp": 260,
+    "exp": 150,
+    "loot": "Gold Coin (0-55), Meat, Club, Giant Smithhammer, Plate Armor",
+    "location": "Cyclops camp Femor Hills, Ab'Dendriel caves",
+    "difficulty": "medium"
+  },
+  {
+    "id": "monster_009",
+    "name": "Dragon",
+    "hp": 1000,
+    "exp": 700,
+    "loot": "Gold Coin (0-220), Dragon Ham, Steel Shield, Serpent Sword, Dragon Scale Mail, Life Crystal",
+    "location": "Darashia dragons, Mintwallin, Isle of the Kings",
+    "difficulty": "hard"
+  },
+  {
+    "id": "monster_010",
+    "name": "Dragon Lord",
+    "hp": 1900,
+    "exp": 2100,
+    "loot": "Gold Coin (0-250), Dragon Ham, Fire Sword, Golden Mug, Red Dragon Scale, Royal Helmet, Strange Helmet",
+    "location": "Thais Ancient Temple, Darashia Dragon Lair, Edron",
+    "difficulty": "hard"
+  },
+  {
+    "id": "monster_011",
+    "name": "Demon",
+    "hp": 8200,
+    "exp": 6000,
+    "loot": "Gold Coin (0-250), Platinum Coin (0-6), Devil Helmet, Magic Sword, Fire Axe, Crown Armor, Demonic Essence, Might Ring, Purple Tome",
+    "location": "Edron Demon Forge, Pits of Inferno",
+    "difficulty": "hard"
+  },
+  {
+    "id": "monster_012",
+    "name": "Vampire",
+    "hp": 475,
+    "exp": 305,
+    "loot": "Gold Coin (0-50), Vampire Shield, Strange Helmet, Cape, Vampire Dust",
+    "location": "Edron vampire cave, Vengoth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "monster_013",
+    "name": "Lich",
+    "hp": 880,
+    "exp": 900,
+    "loot": "Gold Coin (0-120), Skull Staff, Magic Light Wand, Spellbook, Strange Talisman",
+    "location": "Ghostlands Darashia, Edron tomb",
+    "difficulty": "hard"
+  },
+  {
+    "id": "monster_014",
+    "name": "Hero",
+    "hp": 1400,
+    "exp": 1200,
+    "loot": "Gold Coin (0-250), Might Ring, Crown Armor, Crown Shield, Fire Sword, Warrior Helmet",
+    "location": "Edron Hero Cave, Ghostlands",
+    "difficulty": "hard"
+  },
+  {
+    "id": "monster_015",
+    "name": "Rotworm",
+    "hp": 65,
+    "exp": 40,
+    "loot": "Gold Coin (0-17), Meat, Sword, Lump of Dirt",
+    "location": "Venore swamps, underground passages",
+    "difficulty": "easy"
+  }
+]

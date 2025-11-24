@@ -1,0 +1,92 @@
+[
+  {
+    "id": "quest_001",
+    "name": "Paradox Tower Quest",
+    "location": "Fibula (isle west of Thais)",
+    "short_description": "Climb the Paradox Tower and defeat the wizard at the top to claim valuable treasures.",
+    "reward": "Wand of Cosmic Energy, Staff of Cosmic Energy, Spellbook, Life Ring",
+    "difficulty": "medium",
+    "steps": null
+  },
+  {
+    "id": "quest_002",
+    "name": "Mintwallin Cyclops Quest",
+    "location": "Mintwallin (Thais)",
+    "short_description": "Navigate through the cyclops fortress to reach the treasure room.",
+    "reward": "Club Ring, Crown Shield, Warrior Helmet",
+    "difficulty": "medium",
+    "steps": null
+  },
+  {
+    "id": "quest_003",
+    "name": "Black Knight Quest",
+    "location": "Thais Ancient Temple",
+    "short_description": "Defeat the Black Knight and claim his treasures from the ancient temple.",
+    "reward": "Crown Helmet, Crown Armor, Crown Legs, Crown Shield",
+    "difficulty": "hard",
+    "steps": null
+  },
+  {
+    "id": "quest_004",
+    "name": "Vampire Shield Quest",
+    "location": "Edron",
+    "short_description": "Enter the vampire lair and retrieve the legendary Vampire Shield.",
+    "reward": "Vampire Shield",
+    "difficulty": "hard",
+    "steps": null
+  },
+  {
+    "id": "quest_005",
+    "name": "Fire Sword Quest",
+    "location": "Edron",
+    "short_description": "Brave the fire devils and dragons to obtain the enchanted Fire Sword.",
+    "reward": "Fire Sword",
+    "difficulty": "hard",
+    "steps": null
+  },
+  {
+    "id": "quest_006",
+    "name": "Annihilator Quest",
+    "location": "Edron",
+    "short_description": "The ultimate challenge for 4 high level players. Only the bravest dare attempt this quest.",
+    "reward": "Magic Sword, Stonecutter Axe, Present Box (boots of haste or soft boots), Demon Armor",
+    "difficulty": "hard",
+    "steps": null
+  },
+  {
+    "id": "quest_007",
+    "name": "Dwarven Armor Quest",
+    "location": "Kazordoon",
+    "short_description": "Help the dwarves and earn the right to wear their special armor.",
+    "reward": "Dwarven Armor",
+    "difficulty": "easy",
+    "steps": null
+  },
+  {
+    "id": "quest_008",
+    "name": "Orc Fortress Quest",
+    "location": "North of Thais",
+    "short_description": "Storm the orc fortress and loot their treasure chamber.",
+    "reward": "Various equipment and gold",
+    "difficulty": "easy",
+    "steps": null
+  },
+  {
+    "id": "quest_009",
+    "name": "Dragon Shield Quest",
+    "location": "Various locations",
+    "short_description": "Slay dragons to collect their scales and forge the Dragon Shield.",
+    "reward": "Dragon Shield",
+    "difficulty": "hard",
+    "steps": null
+  },
+  {
+    "id": "quest_010",
+    "name": "Demon Helmet Quest",
+    "location": "Edron",
+    "short_description": "Venture into the depths of hell to claim the Demon Helmet.",
+    "reward": "Demon Helmet",
+    "difficulty": "hard",
+    "steps": null
+  }
+]

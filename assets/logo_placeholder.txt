@@ -1,0 +1,4 @@
+# Placeholder for Fibulopedia logo
+# To add a logo, replace this file with logo_fibulopedia.png
+# Recommended size: 200x200 pixels or similar square format
+# Format: PNG with transparency preferred

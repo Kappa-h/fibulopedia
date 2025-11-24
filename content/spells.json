@@ -1,0 +1,152 @@
+[
+  {
+    "id": "spell_001",
+    "name": "Light Healing",
+    "incantation": "exura",
+    "vocation": "Druid",
+    "level": 9,
+    "mana": 20,
+    "effect": "Heals the caster for a small amount of health.",
+    "type": "healing"
+  },
+  {
+    "id": "spell_002",
+    "name": "Intense Healing",
+    "incantation": "exura gran",
+    "vocation": "Druid",
+    "level": 20,
+    "mana": 70,
+    "effect": "Heals the caster for a moderate amount of health.",
+    "type": "healing"
+  },
+  {
+    "id": "spell_003",
+    "name": "Ultimate Healing",
+    "incantation": "exura vita",
+    "vocation": "Druid",
+    "level": 30,
+    "mana": 160,
+    "effect": "Heals the caster for a large amount of health.",
+    "type": "healing"
+  },
+  {
+    "id": "spell_004",
+    "name": "Light",
+    "incantation": "utevo lux",
+    "vocation": "All",
+    "level": 8,
+    "mana": 20,
+    "effect": "Creates a magical light that illuminates dark areas.",
+    "type": "support"
+  },
+  {
+    "id": "spell_005",
+    "name": "Magic Shield",
+    "incantation": "utamo vita",
+    "vocation": "Sorcerer",
+    "level": 14,
+    "mana": 50,
+    "effect": "Converts damage to mana instead of health.",
+    "type": "support"
+  },
+  {
+    "id": "spell_006",
+    "name": "Fireball",
+    "incantation": "adori flam",
+    "vocation": "Sorcerer",
+    "level": 27,
+    "mana": 30,
+    "effect": "Shoots a ball of fire at the target, dealing fire damage.",
+    "type": "offensive"
+  },
+  {
+    "id": "spell_007",
+    "name": "Great Fireball",
+    "incantation": "adori gran flam",
+    "vocation": "Sorcerer",
+    "level": 30,
+    "mana": 60,
+    "effect": "Shoots a large fireball that explodes, damaging multiple targets.",
+    "type": "offensive"
+  },
+  {
+    "id": "spell_008",
+    "name": "Energy Beam",
+    "incantation": "exevo vis lux",
+    "vocation": "Sorcerer",
+    "level": 23,
+    "mana": 40,
+    "effect": "Shoots a beam of energy in a straight line.",
+    "type": "offensive"
+  },
+  {
+    "id": "spell_009",
+    "name": "Sudden Death",
+    "incantation": "adori gran mort",
+    "vocation": "Sorcerer",
+    "level": 45,
+    "mana": 200,
+    "effect": "Deals massive death damage to a single target.",
+    "type": "offensive"
+  },
+  {
+    "id": "spell_010",
+    "name": "Poison Field",
+    "incantation": "adevo grav pox",
+    "vocation": "Druid",
+    "level": 14,
+    "mana": 30,
+    "effect": "Creates a field of poison on the ground.",
+    "type": "offensive"
+  },
+  {
+    "id": "spell_011",
+    "name": "Cure Poison",
+    "incantation": "exana pox",
+    "vocation": "Druid",
+    "level": 10,
+    "mana": 30,
+    "effect": "Removes poison status from the caster.",
+    "type": "support"
+  },
+  {
+    "id": "spell_012",
+    "name": "Haste",
+    "incantation": "utani hur",
+    "vocation": "Sorcerer",
+    "level": 14,
+    "mana": 60,
+    "effect": "Increases movement speed for a short duration.",
+    "type": "support"
+  },
+  {
+    "id": "spell_013",
+    "name": "Invisibility",
+    "incantation": "utana vid",
+    "vocation": "All",
+    "level": 35,
+    "mana": 100,
+    "effect": "Makes the caster invisible to monsters and players.",
+    "type": "support"
+  },
+  {
+    "id": "spell_014",
+    "name": "Divine Missile",
+    "incantation": "adori san",
+    "vocation": "Paladin",
+    "level": 40,
+    "mana": 20,
+    "effect": "Shoots a holy missile at the target.",
+    "type": "offensive"
+  },
+  {
+    "id": "spell_015",
+    "name": "Summon Creature",
+    "incantation": "utevo res",
+    "vocation": "All",
+    "level": 25,
+    "mana": 0,
+    "effect": "Summons a creature to fight alongside you. Specific creatures require different incantations.",
+    "type": "summon"
+  }
+]

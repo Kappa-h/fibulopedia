@@ -1,0 +1,4 @@
+# Placeholder for Tibia 7.1 map image
+# To add the map, replace this file with map.png
+# Recommended format: High resolution PNG of the classic Tibia 7.1 world map
+# The map should include all major cities and locations

@@ -1,0 +1,15 @@
+{
+  "id": "server_001",
+  "name": "Fibula Project",
+  "description": "Fibula Project is a faithful recreation of the classic Tibia 7.1 experience. Our server aims to bring back the nostalgia of old-school Tibia while maintaining an active and friendly community. We focus on authentic gameplay, balanced rates, and regular updates to ensure the best possible experience for our players.",
+  "rates": {
+    "exp": 1,
+    "loot": 1,
+    "skill": 1,
+    "magic": 1
+  },
+  "version": "7.1",
+  "website": "https://amera.fibula.app/",
+  "discord": "https://discord.gg/sCwVWD3y",
+  "additional_info": "Project Fibula is a recreation of early Tibia's spirit, with certain features from future versions introduced where necessary to make it stable, fair, and engaging for a modern audience. The game has been designed to feel like early Tibia in many ways; however, it is not an exact replica.\n\nEach phase of the project revisits a chapter of Tibia's evolution, exploring how the game's world, balance, and mechanics changed over time.\n\nThe server is powered by The Violet Project - a closed-source, forked version of The Forgotten Server - which has been designed to emulate as many classic features of Tibia as possible."
+}
