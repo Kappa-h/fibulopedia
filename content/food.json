@@ -1,7 +1,7 @@
 [
   {
     "name": "Meat",
-    "image": "./assets/items/meat.gif",
+    "image": "./assets/items/Meat.gif",
     "weight": 13.0,
     "hp_gain": 30,
     "hp_per_oz": 2.3,
@@ -17,7 +17,7 @@
   },
   {
     "name": "Bread",
-    "image": "./assets/items/bread.gif",
+    "image": "./assets/items/Bread.gif",
     "weight": 5.0,
     "hp_gain": 20,
     "hp_per_oz": 4,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Brown Bread",
-    "image": "./assets/items/brown_bread.gif",
+    "image": "./assets/items/Brown_Bread.gif",
     "weight": 4.0,
     "hp_gain": 16,
     "hp_per_oz": 4,
@@ -33,7 +33,7 @@
   },
   {
     "name": "Melon",
-    "image": "./assets/items/melon.gif",
+    "image": "./assets/items/Melon.gif",
     "weight": 9.5,
     "hp_gain": 40,
     "hp_per_oz": 4,
@@ -41,7 +41,7 @@
   },
   {
     "name": "Dragon Ham",
-    "image": "./assets/items/dragon_ham.gif",
+    "image": "./assets/items/Dragon_Ham.gif",
     "weight": 30.0,
     "hp_gain": 120,
     "hp_per_oz": 4,
@@ -49,7 +49,7 @@
   },
   {
     "name": "Cheese",
-    "image": "./assets/items/cheese.gif",
+    "image": "./assets/items/Cheese.gif",
     "weight": 4.0,
     "hp_gain": 18,
     "hp_per_oz": 4.5,
@@ -57,7 +57,7 @@
   },
   {
     "name": "Fish",
-    "image": "./assets/items/fish.gif",
+    "image": "./assets/items/Fish.gif",
     "weight": 5.2,
     "hp_gain": 24,
     "hp_per_oz": 4.5,
@@ -65,7 +65,7 @@
   },
   {
     "name": "Cherry",
-    "image": "./assets/items/cherry.gif",
+    "image": "./assets/items/Cherry.gif",
     "weight": 0.4,
     "hp_gain": 2,
     "hp_per_oz": 5,
@@ -73,7 +73,7 @@
   },
   {
     "name": "Corncob",
-    "image": "./assets/items/corncob.gif",
+    "image": "./assets/items/Corncob.gif",
     "weight": 3.5,
     "hp_gain": 18,
     "hp_per_oz": 5,
@@ -81,7 +81,7 @@
   },
   {
     "name": "Salmon",
-    "image": "./assets/items/salmon.gif",
+    "image": "./assets/items/Salmon.gif",
     "weight": 3.2,
     "hp_gain": 20,
     "hp_per_oz": 6,
@@ -89,7 +89,7 @@
   },
   {
     "name": "Roll",
-    "image": "./assets/items/roll.gif",
+    "image": "./assets/items/Roll.gif",
     "weight": 1.0,
     "hp_gain": 6,
     "hp_per_oz": 6,
@@ -97,7 +97,7 @@
   },
   {
     "name": "Carrot",
-    "image": "./assets/items/carrot.gif",
+    "image": "./assets/items/Carrot.gif",
     "weight": 1.6,
     "hp_gain": 10,
     "hp_per_oz": 6.3,
@@ -105,7 +105,7 @@
   },
   {
     "name": "Grapes",
-    "image": "./assets/items/grapes.gif",
+    "image": "./assets/items/Grapes.gif",
     "weight": 2.5,
     "hp_gain": 18,
     "hp_per_oz": 7,
@@ -113,7 +113,7 @@
   },
   {
     "name": "Pears",
-    "image": "./assets/items/pear.gif",
+    "image": "./assets/items/Pear.gif",
     "weight": 1.4,
     "hp_gain": 10,
     "hp_per_oz": 7,
@@ -121,7 +121,7 @@
   },
   {
     "name": "Apples",
-    "image": "./assets/items/apples.gif",
+    "image": "./assets/items/Apples.gif",
     "weight": 1.5,
     "hp_gain": 12,
     "hp_per_oz": 8,
@@ -129,7 +129,7 @@
   },
   {
     "name": "Banana",
-    "image": "./assets/items/banana.gif",
+    "image": "./assets/items/Banana.gif",
     "weight": 1.8,
     "hp_gain": 16,
     "hp_per_oz": 9,
@@ -137,7 +137,7 @@
   },
   {
     "name": "Blueberry",
-    "image": "./assets/items/blueberry.gif",
+    "image": "./assets/items/Blueberry.gif",
     "weight": 0.2,
     "hp_gain": 2,
     "hp_per_oz": 10,
@@ -145,7 +145,7 @@
   },
   {
     "name": "Tomato",
-    "image": "./assets/items/tomato.gif",
+    "image": "./assets/items/Tomato.gif",
     "weight": 1.0,
     "hp_gain": 12,
     "hp_per_oz": 12,
@@ -153,7 +153,7 @@
   },
   {
     "name": "Pumpkin",
-    "image": "./assets/items/pumpkin.gif",
+    "image": "./assets/items/Pumpkin.gif",
     "weight": null,
     "hp_gain": null,
     "hp_per_oz": null,
@@ -161,7 +161,7 @@
   },
   {
     "name": "Red Mushroom",
-    "image": "./assets/items/red_mushroom.gif",
+    "image": "./assets/items/Red_Mushroom.gif",
     "weight": 0.5,
     "hp_gain": 8,
     "hp_per_oz": 16,
@@ -169,7 +169,7 @@
   },
   {
     "name": "Strawberry",
-    "image": "./assets/items/strawberry.gif",
+    "image": "./assets/items/Strawberry.gif",
     "weight": 0.2,
     "hp_gain": 4,
     "hp_per_oz": 20,
@@ -177,7 +177,7 @@
   },
   {
     "name": "Orange",
-    "image": "./assets/items/orange.gif",
+    "image": "./assets/items/Orange.gif",
     "weight": 1.1,
     "hp_gain": 26,
     "hp_per_oz": 23.5,
@@ -185,7 +185,7 @@
   },
   {
     "name": "Cookie",
-    "image": "./assets/items/cookie.gif",
+    "image": "./assets/items/Cookie.gif",
     "weight": 0.1,
     "hp_gain": 4,
     "hp_per_oz": 40,
@@ -193,7 +193,7 @@
   },
   {
     "name": "Egg",
-    "image": "./assets/items/egg.gif",
+    "image": "./assets/items/Egg.gif",
     "weight": 0.3,
     "hp_gain": 12,
     "hp_per_oz": 40,
@@ -201,7 +201,7 @@
   },
   {
     "name": "White Mushroom",
-    "image": "./assets/items/white_mushroom.gif",
+    "image": "./assets/items/White_Mushroom.gif",
     "weight": 0.4,
     "hp_gain": 18,
     "hp_per_oz": 45,
@@ -209,7 +209,7 @@
   },
   {
     "name": "Wood Mushroom",
-    "image": "./assets/items/wood_mushroom.gif",
+    "image": "./assets/items/Wood_Mushroom.gif",
     "weight": 0.3,
     "hp_gain": 18,
     "hp_per_oz": 60,
@@ -217,7 +217,7 @@
   },
   {
     "name": "Green Mushroom",
-    "image": "./assets/items/green_mushroom.gif",
+    "image": "./assets/items/Green_Mushroom.gif",
     "weight": 0.1,
     "hp_gain": 10,
     "hp_per_oz": 100,
@@ -225,7 +225,7 @@
   },
   {
     "name": "Brown Mushroom",
-    "image": "./assets/items/brown_mushroom.gif",
+    "image": "./assets/items/Brown_Mushroom.gif",
     "weight": 0.2,
     "hp_gain": 44,
     "hp_per_oz": 220,
@@ -233,7 +233,7 @@
   },
   {
     "name": "Dark Mushroom",
-    "image": "./assets/items/dark_mushroom.gif",
+    "image": "./assets/items/Dark_Mushroom.gif",
     "weight": 0.1,
     "hp_gain": null,
     "hp_per_oz": null,
@@ -241,7 +241,7 @@
   },
   {
     "name": "Orange Mushroom",
-    "image": "./assets/items/orange_mushroom.gif",
+    "image": "./assets/items/Orange_Mushroom.gif",
     "weight": null,
     "hp_gain": null,
     "hp_per_oz": null,
@@ -249,7 +249,7 @@
   },
   {
     "name": "Some Mushrooms",
-    "image": "./assets/items/some_mushrooms_1.gif",
+    "image": "./assets/items/Some_Mushrooms.gif",
     "weight": null,
     "hp_gain": null,
     "hp_per_oz": null,
@@ -257,7 +257,7 @@
   },
   {
     "name": "Fire Mushroom",
-    "image": "./assets/items/fire_mushroom.gif",
+    "image": "./assets/items/Fire_Mushroom.gif",
     "weight": 0.1,
     "hp_gain": 0,
     "hp_per_oz": 0,
@@ -265,7 +265,7 @@
   },
   {
     "name": "Coconut",
-    "image": "./assets/items/coconut.gif",
+    "image": "./assets/items/Coconut.gif",
     "weight": 4.8,
     "hp_gain": null,
     "hp_per_oz": null,
